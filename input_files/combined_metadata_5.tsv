@@ -1,0 +1,215 @@
+sampleid	sampleid	sample_type	Nest_id	Larvae_size	Cell_ID	Negative_control	Description_of_sample	Env_exposure	AB_treatment	Year	Sample	AVG_CTscore	logDNA	Gender											
+EW-1	1	Negative_control	NA	NA	NA	FALSE	Sample_control	NA	NA	2022		NA	NA	NA											
+EW-2	2	Nest_contents	4	NA	A	FALSE	Wall	NA	NA	2022		NA	NA	NA											
+EW-5	5	Prepupae	4	7	D	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-6	6	Nest_contents	4	NA	D	FALSE	PinkCocoon	NA	NA	2022		NA	NA	NA											
+EW-7	7	Nest_contents	4	NA	D	FALSE	PinkCocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-9	9	Prepupae	4	7	F	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-10	10	Nest_contents	4	NA	F	FALSE	Frass	NA	NA	2022		NA	NA	NA											
+EW-11	11	Prepupae	4	6	G	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-12	12	Nest_contents	4	NA	G	FALSE	PinkCocoonFrassWall	NA	NA	2022		NA	NA	NA											
+EW-13	13	Prepupae	4	6	H	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-14	14	Nest_contents	4	NA	H	FALSE	CocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-15	15	Prepupae	4	5	I	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-16	16	Nest_contents	4	NA	I	FALSE	CocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-17	17	Nest_contents	4	NA	I	FALSE	PinkCocoonFrassWall	NA	NA	2022		NA	NA	NA											
+EW-20	20	Nest_contents	6	NA	A	FALSE	CocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-21	21	Prepupae	6	7	B	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-22	22	Nest_contents	6	NA	B	FALSE	PinkCocoon	NA	NA	2022		NA	NA	NA											
+EW-23	23	Prepupae	6	7	C	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-24	24	Prepupae	6	6	D	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-25	25	Nest_contents	6	NA	D	FALSE	PinkCocoon	NA	NA	2022		NA	NA	NA											
+EW-26	26	Prepupae	6	6	E	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-27	27	Nest_contents	6	NA	E	FALSE	PinkCocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-28	28	Prepupae	6	6	F	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-30	30	Food	7	NA	E	FALSE	Pollen	NA	NA	2022		NA	NA	NA											
+EW-31	31	Negative_control	NA	NA	NA	FALSE	Sample_control	NA	NA	2022		NA	NA	NA											
+EW-33	33	Nest_contents	5	NA	A	FALSE	Cocoon	NA	NA	2022		NA	NA	NA											
+EW-34	34	Larvae	5	6	B	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-35	35	Food	5	NA	B	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-36	36	Nest_contents	5	NA	B	FALSE	Wall	NA	NA	2022		NA	NA	NA											
+EW-37	37	Larvae	5	5	C	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-38	38	Food	5	NA	C	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-39	39	Larvae	5	4	D	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-40	40	Food	5	NA	D	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-41	41	Food	5	NA	E	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-42	42	Food	5	NA	F	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-43	43	Food	5	NA	G	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-44	44	Food	5	NA	H	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-45	45	Food	5	NA	I	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-46	46	Eggs	5	NA	I	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-EBC1	EBC1	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022	1	28.229	2.309501986	NA											
+EW-48	48	Eggs	5	NA	J	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-50	50	Eggs	5	NA	K	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-90	90	Adults	5	NA	NA	FALSE	Adults	Free-flying	NA	2022	42	19.703	4.914451573	Female											
+EW-47	47	Food	5	NA	J	FALSE	Pollen_provision	NA	NA	2022	97	14.82	6.406355026	NA											
+EW-49	49	Food	5	NA	K	FALSE	Pollen_provision	NA	NA	2022	99	16.091	6.018026276	NA											
+EW-51	51	Adults	13	NA	NA	FALSE	Adults	Free-flying	NA	2022		NA	NA	Female											
+EW-52	52	Prepupae	13	8	A	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-53	53	Food	13	NA	A	FALSE	Pollen	NA	NA	2022		NA	NA	NA											
+EW-54	54	Nest_contents	13	NA	A	FALSE	CocoonFrassPollen	NA	NA	2022		NA	NA	NA											
+EW-55	55	Larvae	13	5	B	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-56	56	Food	13	NA	B	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-57	57	Food	13	NA	C	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-58	58	Larvae	13	4	C	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-59	59	Food	13	NA	D	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-60	60	Larvae	13	2	D	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-61	61	Food	13	NA	E	FALSE	Pollen	NA	NA	2022		NA	NA	NA											
+EW-62	62	Eggs	13	NA	F	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-EBC6	EBC6	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022	31	28.087	2.352887259	NA											
+EW-64	64	Eggs	13	NA	G	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-66	66	Food	13	NA	H	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-68	68	Negative_control	NA	NA	NA	FALSE	Sample_control	NA	NA	2022		NA	NA	NA											
+EW-88	88	Adults	3	NA	NA	FALSE	Adults	Free-flying	NA	2022	41	19.014	5.124961809	Female											
+EW-67	67	Food	13	NA	I	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-63	63	Food	13	NA	F	FALSE	Pollen_provision	NA	NA	2022	67	14.007	6.654750993	NA											
+EW-65	65	Food	13	NA	G	FALSE	Pollen_provision	NA	NA	2022	68	14.573	6.481820959	NA											
+EW-69	69	Adults	14	NA	NA	FALSE	Adults	Free-flying	NA	2022	11	18.683	5.22609227	Female											
+EW-82	82	Food	14	NA	F	FALSE	Pollen_provision	NA	NA	2022	29	14.11	6.623281393	NA											
+EW-70	70	Prepupae	14	7	A	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-71	71	Nest_contents	14	NA	A	FALSE	CocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-72	72	Food	14	NA	A	FALSE	Pollen	NA	NA	2022		NA	NA	NA											
+EW-73	73	Prepupae	14	6	B	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-74	74	Food	14	NA	B	FALSE	Pollen	NA	NA	2022		NA	NA	NA											
+EW-75	75	Larvae	14	3	C	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-76	76	Food	14	NA	C	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-77	77	Larvae	14	2	D	FALSE	Larvae	NA	NA	2022		NA	NA	NA											
+EW-78	78	Food	14	NA	D	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-79	79	Eggs	14	NA	E	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-81	81	Eggs	14	NA	F	FALSE	Eggs	NA	NA	2022		NA	NA	NA											
+EW-86	86	Adults	1	NA	NA	FALSE	Adults	Free-flying	NA	2022		NA	NA	Female											
+EW-87	87	Adults	2	NA	NA	FALSE	Adults	Free-flying	NA	2022		NA	NA	Female											
+EW-83	83	Food	14	NA	G	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-89	89	Adults	4	NA	NA	FALSE	Adults	Free-flying	NA	2022		NA	NA	Female											
+EW-84	84	Food	14	NA	H	FALSE	Pollen_provision	NA	NA	2022		NA	NA	NA											
+EW-105	105	Adults	2	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	102	26.683	2.781851512	Male											
+EW-106	106	Adults	2	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	168	27.601	2.501374885	Male											
+EW-93	93	Pupa	NA	NA	NA	FALSE	Pupa	NA	NA	2022		NA	NA	NA											
+EW-94	94	Nest_contents	NA	NA	NA	FALSE	CocoonFrass	NA	NA	2022		NA	NA	NA											
+EW-95	95	Nest_contents	NA	NA	NA	FALSE	FrassPlug	NA	NA	2022		NA	NA	NA											
+EW-96	96	Excretion	NA	NA	NA	FALSE	Excretion	NA	NA	2023		NA	NA	NA											
+EW-97	97	Pupa	1	NA	NA	FALSE	Pupa	NA	NA	2023		NA	NA	NA											
+EW-EBC10	EBC10	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022	71	28.398	2.2578674	NA											
+EW-85	85	Nest_contents	14	NA	A	FALSE	PinkCocoonFrassWall	NA	NA	2022		NA	NA	NA											
+EW-101	101	Excretion	12	NA	NA	FALSE	Excretion	NA	NA	2023		NA	NA	NA											
+EW-102	102	Excretion	8	NA	NA	FALSE	Excretion	NA	NA	2023		NA	NA	NA											
+EW-80	80	Food	14	NA	E	FALSE	Pollen_provision	NA	NA	2022	70	15.724	6.13015582	NA											
+EW-104	104	Excretion	12	NA	NA	FALSE	Excretion	NA	NA	2023		NA	NA	NA											
+EW-EBC12	EBC12	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023	101	28.201	2.318056829	NA											
+EW-107	107	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Male											
+EW-108	108	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Male											
+EW-111	111	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Male											
+EW-173	173	Prepupae	NA	NA	C	FALSE	Larvae	NA	antibiotic	2023	109	28.428	2.248701497	NA											
+EW-174	174	Prepupae	NA	NA	A	FALSE	Larvae	NA	control	2023	110	19.193	5.070271922	NA											
+EW-112	112	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Female											
+EW-113	113	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Female											
+EW-109	109	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	171	27.706	2.469294225	Male											
+EW-130	130	Prepupae	NA	NA	E	FALSE	Larvae	NA	control	2023	111	17.764	5.506874427	NA											
+EW-148	148	Prepupae	NA	NA	H	FALSE	Larvae	NA	control	2023	113	18.464	5.293003361	NA											
+EW-116	116	Raw_pollen	NA	NA	NA	FALSE	Raw pollen	NA	NA	2023		NA	NA	NA											
+EW-117	117	heads_and_pollen	NA	NA	NA	FALSE	heads and pollen	NA	NA	2023		NA	NA	NA											
+EW-118	118	Food	15	NA	NA	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-119	119	Larvae	15	NA	NA	FALSE	Larvae	NA	NA	2023		NA	NA	NA											
+EW-120	120	Prepupae	16	NA	A	FALSE	Larvae	NA	control	2023	125	19.143	5.085548427	NA											
+EW-121	121	Prepupae	16	NA	B	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-122	122	Prepupae	17	NA	A	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-EBC15	EBC15	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023	135	27.706	2.469294225	NA											
+EW-124	124	Prepupae	17	NA	C	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-136	136	Prepupae	NA	NA	D	FALSE	Larvae	NA	antibiotic	2023	137	19.533	4.96639169	NA											
+EW-126	126	Prepupae	NA	NA	B	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-127	127	Prepupae	NA	NA	A	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-128	128	Prepupae	NA	NA	C	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-129	129	Prepupae	NA	NA	D	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-146	146	Prepupae	NA	NA	D	FALSE	Larvae	NA	control	2023	140	20.108	4.790711885	NA											
+EW-131	131	Negative_control	NA	NA	NA	FALSE	Sample_control	NA	NA	2023		NA	NA	NA											
+EW-149	149	Prepupae	NA	NA	B	FALSE	Larvae	NA	antibiotic	2023	141	26.346	2.884815154	NA											
+EW-150	150	Prepupae	NA	NA	C	FALSE	Larvae	NA	antibiotic	2023	142	26.818	2.74060495	NA											
+EW-169	169	Prepupae	NA	NA	B	FALSE	Larvae	NA	antibiotic	2023	147	27.317	2.588145432	NA											
+EW-135	135	Prepupae	16	NA	C	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-123	123	Prepupae	17	NA	B	FALSE	Larvae	NA	antibiotic	2023	157	17.578	5.563703025	NA											
+EW-137	137	Prepupae	NA	NA	E	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-138	138	Prepupae	NA	NA	E	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-139	139	Prepupae	NA	NA	F	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-140	140	Prepupae	NA	NA	G	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-141	141	Prepupae	NA	NA	A	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-142	142	Prepupae	16	NA	D	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-143	143	Prepupae	NA	NA	F	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-144	144	Prepupae	NA	NA	H	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-145	145	Prepupae	NA	NA	C	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-125	125	Prepupae	NA	NA	A	FALSE	Larvae	NA	control	2023	159	15.668	6.147265506	NA											
+EW-147	147	Prepupae	NA	NA	G	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-110	110	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	172	27.639	2.489764742	Male											
+EW-114	114	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	175	25.694	3.084020776	Female											
+EW-115	115	Adults	3	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023	183	25.617	3.107546593	Female											
+EW-151	151	Prepupae	NA	NA	D	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-152	152	Prepupae	NA	NA	H	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-153	153	Prepupae	NA	NA	I	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-154	154	Prepupae	NA	NA	I	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-155	155	Food	27	NA	A	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-156	156	Food	27	NA	B	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-157	157	Food	27	NA	C	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-158	158	Food	27	NA	D	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-159	159	Food	27	NA	E	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-160	160	Food	27	NA	F	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-161	161	Food	27	NA	G	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-162	162	Food	27	NA	H	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-163	163	Food	27	NA	I	FALSE	Food	NA	NA	2023		NA	NA	NA											
+EW-100	100	Adults	8	NA	NA	FALSE	Adults - sterile eclosion	None	NA	2023	167	27.36	2.575007638	Female											
+EW-166	166	Prepupae	16	NA	F	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-167	167	Prepupae	NA	NA	A	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-168	168	Prepupae	NA	NA	A	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-165	165	Adults	10	NA	NA	FALSE	Adults - nest eclosion	Nest_only	NA	2023		NA	NA	Female											
+EW-170	170	Honeybee_Culture	NA	NA	NA	FALSE	Honey bee gut	NA	NA	2023		NA	NA	NA											
+EW-171	171	Tosti_Culture	NA	NA	NA	FALSE	Tosticauda gut	NA	NA	2023		NA	NA	NA											
+EW-172	172	Larvae_Culture	NA	NA	NA	FALSE	Feeding Larvae	NA	NA	2023		NA	NA	NA											
+EW-99	99	Adults	12	NA	NA	FALSE	Adults - sterile eclosion	None	NA	2023	181	27.519	2.526428353	Female											
+EW-133	133	Adults	NA	NA	NA	FALSE	Adults	Free-flying	NA	2023	177	19.926	4.846318362	Female											
+EW-175	175	Prepupae	NA	NA	B	FALSE	Larvae	NA	antibiotic	2023		NA	NA	NA											
+EW-176	176	Prepupae	NA	NA	E	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-177	177	Prepupae	NA	NA	C	FALSE	Larvae	NA	control	2023		NA	NA	NA											
+EW-134	134	Adults	NA	NA	NA	FALSE	Adults	Free-flying	NA	2023	178	20.16	4.77482432	Female											
+EW-EBC18	EBC18	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023	179	28.218	2.312862817	NA											
+EW-103	103	Adults	12	NA	NA	FALSE	Adults - sterile eclosion	None	NA	2023	191	27.763	2.45187901	Female											
+EW-181	181	Negative_control_rinse	NA	NA	NA	FALSE	Water_rinse	NA	NA	2023		NA	NA	NA											
+EW-182	182	Negative_control_rinse	NA	NA	NA	FALSE	Water_rinse	NA	NA	2023		NA	NA	NA											
+EW-183	183	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-91	91	Adults	NA	NA	NA	FALSE	Adults	Nest_only	NA	2022		NA	NA	Female											
+EW-132	132	Adults	NA	NA	NA	FALSE	Adults	Free-flying	NA	2023	186	19.934	4.843874122	Female											
+EW-186	186	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-187	187	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-188	188	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-178	178	Honey_bee	NA	NA	NA	FALSE	Honey bee	NA	NA	2023	188	12.668	7.06385579	NA											
+EW-190	190	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-191	191	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-192	192	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-193	193	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-194	194	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-195	195	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-196	196	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-197	197	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-198	198	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-199	199	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-200	200	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-201	201	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-202	202	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-203	203	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-204	204	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-205	205	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023		NA	NA	NA											
+EW-179	179	Honey_bee	NA	NA	NA	FALSE	Honey bee	NA	NA	2023	189	13.737	6.737244119	NA											
+EW-180	180	Honey_bee	NA	NA	NA	FALSE	Honey bee	NA	NA	2023	190	12.908	6.990528567	NA											
+EW-EBC11	EBC11	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-92	92	Adults	NA	NA	NA	FALSE	Adults	Nest_only	NA	2022		NA	NA	Female											
+EW-EBC13	EBC13	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023		NA	NA	NA											
+EW-EBC14	EBC14	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023		NA	NA	NA											
+EW-184	184	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023	194	29.239	2.00091659	NA											
+EW-EBC16	EBC16	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023		NA	NA	NA											
+EW-EBC17	EBC17	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2023		NA	NA	NA											
+EW-185	185	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023	195	22.185	4.156125878	NA											
+EW-EBC2	EBC2	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-EBC3	EBC3	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-EBC4	EBC4	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-EBC5	EBC5	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-189	189	Primary_isolate	NA	NA	NA	FALSE	Primary_isolate	NA	NA	2023	199	34.691	0.3351665139	NA											
+EW-EBC7	EBC7	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-EBC8	EBC8	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA											
+EW-EBC9	EBC9	Negative_control	NA	NA	NA	TRUE	EBC	NA	NA	2022		NA	NA	NA
