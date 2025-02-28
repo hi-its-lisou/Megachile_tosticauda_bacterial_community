@@ -16,7 +16,7 @@ ps <- qza_to_phyloseq(
   features = "input_files/merged_table.qza",
   taxonomy = "input_files/merged_taxonomy.qza",
   tree = "input_files/merged_sepp_tree.qza",
-  metadata = "input_files/combined_metadata_4.tsv")
+  metadata = "input_files/combined_metadata_5.tsv")
 ps@sam_data$sampleid = rownames(ps@sam_data)
 ps
 
